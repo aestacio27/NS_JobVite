@@ -121,7 +121,7 @@
 body {
   color: #666666;
   overflow-x: hidden;
-  background-color: #050607
+      /*background-color: #050607*/
 }
 @media (min-width: 1920px) {
   .body-container {
@@ -511,9 +511,8 @@ button:focus {
 }
 .dark-image-bg {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(http://aestacio27.github.io/NS_JobVite/images/BrochureImage.png);
-  /*background-position: center top;*/
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
 }
 
 
