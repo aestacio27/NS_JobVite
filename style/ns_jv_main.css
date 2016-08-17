@@ -4169,7 +4169,7 @@ footer a {
   display: none;
 }
 .panel:hover a.new-label:after{
-  content: 'Apply Today';
+  content: 'View All';
 }
 
 
