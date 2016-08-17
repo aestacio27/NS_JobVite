@@ -3024,13 +3024,13 @@ button:focus {
 /******************** TESTIMONIALS 6 ********************/
 .testimonials-6 {
   padding-top: 100px;
-  padding-bottom: 150px;    
+  padding-bottom: 100px;    
 }
 
 @media (min-width: 992px) {
     .testimonials-6 {
         height: auto;
-        min-height: 800px;
+    min-height: 800px;
     }
 }
 
