@@ -513,7 +513,11 @@ button:focus {
   background-position: center top;
   background-size: cover;
 }
-
+.dark-image-bg-ur {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(https://aestacio27.github.io/NS_JobVite/images/ur-program.jpg);
+  background-position: center top;
+  background-size: cover;
+}
 
 .section-video {
   position: absolute;
