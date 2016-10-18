@@ -771,6 +771,17 @@ button:focus {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+.no-padding{
+   padding: 0 !important;
+}
+.no-padding-x{
+   padding-left: 0 !important;
+   padding-right: 0 !important;
+}
+.no-padding-y{
+   padding-top: 0 !important;
+   padding-bottom: 0 !important;
+}
 @media (min-width: 768px) {
   .p_lr45 {
     padding-left: 45px;
